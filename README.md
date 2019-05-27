@@ -39,7 +39,11 @@ numpad_minus - decrease altitude
 
 e.g.
 ./fdf ./test_maps/mars.fdf
+
 ./fdf ./test_maps/42.fdf
+
 ./fdf ./test_maps/pyramide.fdf
+
 ./fdf ./test_maps/100-6.fdf
+
 ./fdf ./test_maps/julia.fdf
