@@ -11,18 +11,31 @@ This project introduces you to “events” programming.
 FUNCTIONALITY
 
 Press key events
+
 x - draw lines
+
 d - dots
+
 i - isometric projection 
+
 p - parallel projection
+
 r - reset
+
 c - colorize
+
 key_left - move left
+
 key_right - move right
+
 key_up - move up
+
 key_down - move down
+
 numpad_plus - increase altitude
+
 numpad_minus - decrease altitude
+
 
 e.g.
 ./fdf ./test_maps/mars.fdf
