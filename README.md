@@ -48,3 +48,5 @@ e.g.
 ./fdf ./test_maps/100-6.fdf
 
 ./fdf ./test_maps/julia.fdf
+
+P.S. At the moment compiles only on MacOs
