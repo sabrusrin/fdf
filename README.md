@@ -7,11 +7,12 @@ You will also discover your first graphic library: miniLibX. This library was de
 the minimum necessary to open a window, light a pixel and deal with events linked to this window: keyboard and mouse.
 This project introduces you to “events” programming.
 
+Use make to compile project.
 
 ### FUNCTIONALITY
 
-#### Press key events
 ```
+PRESS KEY EVENTS:
 x - draw lines
 d - dots
 i - isometric projection 
