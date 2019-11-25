@@ -7,6 +7,8 @@ You will also discover your first graphic library: miniLibX. This library was de
 the minimum necessary to open a window, light a pixel and deal with events linked to this window: keyboard and mouse.
 This project introduces you to “events” programming.
 
+##### For visualisation I used a minilibx(ecole42 graphic library) that gives a functions to create/destroy/clear window, to put a pixel to the window I created and to work with keyboard/mouse events.
+
 Use make to compile project.
 
 ### FUNCTIONALITY
