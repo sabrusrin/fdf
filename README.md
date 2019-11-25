@@ -50,3 +50,6 @@ e.g.
 ./fdf ./test_maps/julia.fdf
 
 P.S. At the moment compiles only on MacOs
+
+![world](https://raw.githubusercontent.com/sabrusrin/fdf/master/images/world.png)
+![42](https://raw.githubusercontent.com/sabrusrin/fdf/master/images/42.png)
