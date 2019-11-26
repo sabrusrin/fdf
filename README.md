@@ -1,6 +1,7 @@
 # fdf
 #### my 42 nickname - chermist
 > Code written in norminette code style(github.com/sabrusrin/norme)  
+
 Graphic programming project, FdF proposes to represent the mesh in "wire of a field" in 3D.
 
 In this project I will discovered the basics of graphic programming, and in particular how to place points in space, 
