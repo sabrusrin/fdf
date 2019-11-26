@@ -9,7 +9,8 @@ This project introduced me to “events” programming.
 
 ##### For visualisation I used a minilibx(ecole42 graphic library) that gives a functions to create/destroy/clear window, to put a pixel to the window I created and to work with keyboard/mouse events.
 
-Use make to compile project.
+Use make to compile project.  
+Code written in norminette code style(github.com/sabrusrin/norme)
 
 ### FUNCTIONALITY
 
