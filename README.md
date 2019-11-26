@@ -1,4 +1,6 @@
 # fdf
+#### my 42 nickname - chermist
+> Code written in norminette code style(github.com/sabrusrin/norme)
 Graphic programming project, FdF proposes to represent the mesh in "wire of a field" in 3D.
 
 In this project I will discovered the basics of graphic programming, and in particular how to place points in space, 
@@ -10,7 +12,6 @@ This project introduced me to “events” programming.
 ##### For visualisation I used a minilibx(ecole42 graphic library) that gives a functions to create/destroy/clear window, to put a pixel to the window I created and to work with keyboard/mouse events.
 
 Use make to compile project.  
-Code written in norminette code style(github.com/sabrusrin/norme)
 
 ### FUNCTIONALITY
 
