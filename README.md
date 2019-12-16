@@ -49,8 +49,16 @@ e.g.
 
 #### If you want to build project on linux machine, follow these steps:
 ```
-1) ./configure
-2) make linux
+1) Update/upgrade your system:
+  apt-get update
+  apt-get upgrade
+
+2) Install the following packages:
+  apt-get install libx11-dev
+  apt-get install libxext-dev
+
+3) ./configure
+4) Use make command: make linux
 Hope it will work :)
 ```
 
