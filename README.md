@@ -12,7 +12,7 @@ This project introduced me to “events” programming.
 
 ##### For visualisation I used a minilibx(ecole42 graphic library) that gives a functions to create/destroy/clear window, to put a pixel to the window I created and to work with keyboard/mouse events.
 
-Use make to compile project.  
+Use make to build project on macos.  
 
 ### FUNCTIONALITY
 
@@ -47,7 +47,12 @@ e.g.
 ./fdf ./test_maps/julia.fdf
 ```
 
-##### P.S. At the moment compiles only on MacOs
+#### If you want to build project on linux machine, follow these steps:
+```
+1) ./configure
+2) make linux
+Hope it will work :)
+```
 
 ![world](https://raw.githubusercontent.com/sabrusrin/fdf/master/images/world.png)
 ![42](https://raw.githubusercontent.com/sabrusrin/fdf/master/images/42.png)
