@@ -6,7 +6,7 @@
 #    By: chermist <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/05/04 18:07:03 by chermist          #+#    #+#              #
-#    Updated: 2019/12/16 14:19:35 by chermist         ###   ########.fr        #
+#    Updated: 2019/12/16 15:11:01 by chermist         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -49,7 +49,8 @@ $(NAME): $(OBJ)
 	$(CC) $(INCDIR) $(LIBDIR) $(LIB) $(FW) $(OBJ) -o $@
 
 linux:
-	make -C libft/
+	@make -C libft/
+	@make -C minilibx_linux/
 	$(OBJ)
 	$(CC) -I libft -I inc -L libft $(LINUX_FLAGS) $(OBJ) -o $(NAME)
 
