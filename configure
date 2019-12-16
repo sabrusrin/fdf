@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo "export PKG_CONFIG_PATH=path_to_minilibx_linux_directory" >> ~/.bashrc
+cd minilibx_linux; make && sudo make install
+sudo cp mlx.h /usr/X11/include
+sudo cp libmlx.a /usr/X11/lib
+sudo cp libmlx_intel-mac.a /usr/X11/lib
